@@ -1,0 +1,18 @@
+# Ignore OS Related/Generic
+Thumbs.db
+Desktop.ini
+._*
+Icon?
+.DS_Store
+*.bak
+*.tmproj
+*.tmproject
+*~
+/vendor
+
+# Remove PHPStorm Project folders
+**/.idea
+**/.idea/*
+
+# Ignore node.js modules
+**/node_modules/*
