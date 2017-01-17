@@ -1,0 +1,10 @@
+{
+    "name": "qqlife/qaravel",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Illuminate\\": "src/Illuminate/"
+        }
+    }
+}
